@@ -34,3 +34,15 @@ The analysis explores bicycle sales, revenue, profitability, seasonal trends, in
 
 ## Conclusion
 This project demonstrates the use of SQL and business analysis techniques to transform raw data into meaningful insights and support strategic decision-making.
+
+## Power BI – Sales & Profit Analysis
+
+![Sales and Profit Analysis](PowerBI-Sales-Profit.png)
+
+## Power BI – Inventory Analysis
+
+![Inventory Analysis](PowerBI-Inventory-Analysis.png)
+
+## SQL – Queries & Results
+
+![SQL Queries and Results](SQL-Queries-and-Results.png)
